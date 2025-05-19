@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Bitmattz Workshop EDS
+Sandbox application to study EDS
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
